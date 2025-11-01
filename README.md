@@ -69,7 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-<!-- ### `npm install react-bootstrap bootstrap`
+### use bootstrap react
+
+### `npm install react-bootstrap bootstrap`
 
 use component bootstrap
 
@@ -78,6 +80,7 @@ use component bootstrap
 แฟ็กเกจสำหรับใชัจัดการ API
 
 ### `npm i react-router-dom`
+
 cd
 สำหรับจัดการ Router
 
@@ -91,4 +94,4 @@ cd
 
 ใช้งานคอมโพเนิ้นผ่าน importแบบเจาะจง
 
-### `import {Button,form,Row,Col} from 'react-bootstrap` -->  -->
+### `import {Button,form,Row,Col} from 'react-bootstrap` -->
